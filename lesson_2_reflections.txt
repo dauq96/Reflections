@@ -1,2 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: Git starts creating hidden files that help with version control, and is important to switch a directory in a repository.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: In the directory you put all your work, while in the staging area you only put the changes you want to be commited, saved.
+
+
